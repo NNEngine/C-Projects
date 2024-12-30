@@ -1,1 +1,1 @@
-It contains basic C projects.
+It contains basic **C** projects.
