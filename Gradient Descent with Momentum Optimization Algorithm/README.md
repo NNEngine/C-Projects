@@ -104,3 +104,11 @@ Initial values: **x = 4.000000**, **v = 0.100000**
 | 0.429856    | 1.164524    | 0.859711 | 1.134043    | 0.418515    |
 | 0.418515    | 1.134043    | 0.837031 | 1.104342    | 0.407472    |
 
+
+**“If 𝑥 is approaching the minima, shouldn’t 𝑣 increase to encourage it to move faster?”**
+
+That would be true if the gradient stayed large near the minimum — but it doesn’t.
+
+- Near the minimum, the slope is tiny, so there’s nothing to push velocity harder.
+- Instead, the system is designed to slow down automatically to avoid overshooting.
+- Otherwise, if 𝑣 just kept increasing, you would fly past the minimum and oscillate indefinitely.
