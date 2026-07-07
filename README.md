@@ -9,3 +9,4 @@ Here is a list of C projects included in this repository:
 - Gradient Descent implmented inC
 - Gradient Descent with Momentum implemented in C
 - Binary PGM (P5) based on smooth field images implemented in C
+- Decimal to Conversion implemented in C
