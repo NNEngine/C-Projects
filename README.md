@@ -1,5 +1,5 @@
 ## C-Projects
-This repository contains C projects.
+This repository contains projects written in pure C.
 
 Here is a list of C projects included in this repository:
 - Linear Regression implementation in C
